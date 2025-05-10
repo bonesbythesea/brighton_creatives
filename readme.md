@@ -39,7 +39,7 @@ here we are focusing on the impact on the creative industries in brighton. our p
 > The largest contributions to the increase in creative Industries GVA from 2021 to 2022 were the ‘IT, software and computer services’ subsector, the ‘Publishing’ subsector and the ‘Film, TV, video, radio and photography’ subsector, which grew by 7.3 per cent, 10.1 per cent and 5.4 per cent respectively. All segments of the creative industries grew their GVA from 2021 to 2022, apart from the crafts subsector, which fell by 6.8 per cent.
 
 ## non-economic impact of the arts
-- [example film and tv impacts on baby names](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/articles/fromstarwarstothekardashianstheculturalinfluencesthatcouldbedrivingbabynametrends/2022-10-05)
+- [example impact on baby names] (https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/articles/fromstarwarstothekardashianstheculturalinfluencesthatcouldbedrivingbabynametrends/2022-10-05)
 
 
 # sources
