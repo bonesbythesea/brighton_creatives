@@ -1,7 +1,26 @@
 brighton creatives
 ===
 # introduction
-the covid pandemic, with its lockdowns and closures of public spaces had a complex effect on society. artists and others operating in the --already fickle-- creative industries we heavily impacted but the picture is complicated. by various metrics, the creative industries bounced back rapidly, but the post covid world is still a different place.
+the covid pandemic, with its lockdowns and closures of public spaces had a complex effect on society. artists and others operating in the --already fickle-- creative industries we heavily impacted but the picture is complicated. by various metrics, the creative industries bounced back rapidly, but the post covid world still bears the marks of the interruption.
+
+here we are focusing on the impact on the creative industries in brighton. our plan to investigate this is to collect available data from official sources
+
+# project structure
+```
+├── data
+│   ├── creatives.duckdb  --> central database for processed data
+│   ├── csv               --> raw data files in csv format
+│   │   ├── ons           --> raw csv by-region data files from the ons
+│   │   └── time_series   --> raw csv time series from the ons 
+│   ├── excel             --> raw excel formatted data reports from official sources
+│   └── source_urls       --> lists of urls from where data is sourced
+├── img                   --> graphical resources, including plots genrated or downloaded from sources
+├── notebooks             --> processing, exploratory, and modelling code notebooks
+├── notes                 --> various text or pdf documents containing relevant information 
+├── readme.md             --> this file
+├── sql                   --> transformations, joins and analytics on database tables
+└── src                   --> (mostly python) source code for scraping/ingestion/processing/modelling
+```
 
 
 # specific notes 
