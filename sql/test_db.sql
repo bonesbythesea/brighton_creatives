@@ -1,0 +1,1 @@
+SELECT * FROM table_3676_E10000008_AllCountiesInCountry_England_latest;
