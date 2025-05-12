@@ -56,6 +56,7 @@ here we are focusing on the impact on the creative industries in brighton. our p
 
 # links for safe keeping 
 **From Adam** 
+- [mapping from uprn to geocoordinates](https://www.ordnancesurvey.co.uk/products/os-open-)
 - [Planning in Brighton and Hove](https://oflog.data.gov.uk/planning?area=BN1+1ND)
 - [Total expenditure on arts, tourism and historic environment](https://lginform.local.gov.uk/dataAndReports/explorer/6605?text=arts&metricType=6605&area=E10000008%2CAllLaInUK&period=latest)
 - [LG Inform](https://lginform.local.gov.uk/dataAndReports/explorer) - data here about number of art gallery visits.
