@@ -52,3 +52,24 @@ here we are focusing on the impact on the creative industries in brighton. our p
 - [brighton data from oflog](https://oflog.data.gov.uk/planning?area=BN1+1ND)
 - [funding](https://reports.esd.org.uk/share/map)
 - [expenditure](https://lginform.local.gov.uk/dataAndReports/explorer/6605?text=arts&metricType=6605&area=E10000008%2CAllLaInUK&period=latest)
+
+
+# links for safe keeping 
+**From Adam** 
+- [Planning in Brighton and Hove](https://oflog.data.gov.uk/planning?area=BN1+1ND)
+- [Total expenditure on arts, tourism and historic environment](https://lginform.local.gov.uk/dataAndReports/explorer/6605?text=arts&metricType=6605&area=E10000008%2CAllLaInUK&period=latest)
+- [LG Inform](https://lginform.local.gov.uk/dataAndReports/explorer) - data here about number of art gallery visits.
+
+**From Fiona**
+- [Libraries and makerspaces 2019](https://www.gov.uk/government/publications/libraries-and-makerspaces/libraries-and-makerspaces) - a lot of these places might be closed now. Alas nothing on Brighton, but some useful links.
+- [A nesta report on makerspaces from 2015](https://www.nesta.org.uk/report/open-dataset-of-uk-makerspaces-a-users-guide/) unfortunately the dataset, no longer seems to be available.
+- [Culture in our city map for Brighton](https://cultureinourcity.com/creative-network/venues-spaces/) - this feels like a work in-progress, not many spaces on here and I know there are more.
+- [Resources page with some useful links to reports](https://cultureinourcity.com/creative-network/resources/) 
+- [A relevant paper from University of Sussex - Cultural, creative and collective recovery: exploring a creative Worker income Guarantee (CWIG)](https://www.tandfonline.com/doi/full/10.1080/17510694.2023.2301120#abstract)
+- [Report: Space to Grow - Brighton & Hove: Space for Culture](https://cultureinourcity.com/resources/space-to-grow-brighton-hove-space-for-culture/)
+- [*Meanwhile* space this seemed like a good project](https://www.meanwhilespace.com/about) - still active on companies house, but the website is a bit out of date.
+- Some useful links from the 'Creative Lives' website:
+-- [Barriers to Banking](https://www.creative-lives.org/barriers-to-banking) - alas no data yet
+-- [Report: Spaces for Creative 2024](https://www.creative-lives.org/spaces-for-creativity-2024) - limited data but backs up some of the themes. [Direct link to the PDF](https://www.creative-lives.org/Handlers/Download.ashx?IDMF=0b2f24b3-f2b2-4a5e-b9b6-92c6b4fccdab).
+-- [Report: Everyday Creativity 2016](https://www.creative-lives.org/everyday-creativity) - a report from 2016 which includes direct feedback from artists.
+-- [Arts Council response to the report 2020](https://www.artscouncil.org.uk/blog/value-everyday-creativity)
