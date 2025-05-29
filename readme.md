@@ -22,6 +22,32 @@ here we are focusing on the impact on the creative industries in brighton. our p
 └── src                   --> (mostly python) source code for scraping/ingestion/processing/modelling
 ```
 
+# Research questions 
+
+## Are creative people leaving Brighton? 
+
+Prompted by this article from the Brighton Chamber 
+- [discussion at brighton chamber](https://www.brightonchamber.co.uk/blog/the-big-debate-is-brightons-creative-sector-an-undervalued-powerhouse)
+
+- **Q1: What are the greatest barriers for creative people working in Brighton?**
+    - Affordable spaces to make/do (e.g., the closure of New England House).
+    - Spaces to show/sell
+    - Supportive infrastructure (e.g., arts organisations, local funding)
+    - Routes to audiences (e.g., tourism board, what's on guides, social media, ticketing sites)
+    - Supplementary job opportunities, e.g., both universities have been hit with redundancies, how have creative subjects been impacted? Is there even information available?
+    - Are there any factors which may have impacted creative incomes in Brighton?
+        - e.g., has AI impacted photographers and visual designers? 
+
+- **Q2: What are the greatest barriers for creative people living in Brighton?**
+    - Cost of living versus average income (could find something out about this from the Arts Council website I reckon - the median income will likely be fairly low).
+        - Related to this, I am interested in finding out if there is a general trend of people leaving Brighton, beyond the usual changes to the student population.
+    - Relative costs of rents in Brighton as compared to income
+    - Issues with housing stock in more affordable areas. Related to this - just some ideas...
+        - Crime in these areas
+        - Quality of schools in these areas
+        - Quality of doctors surgeries
+        - Access to an NHS dentist
+
 
 # specific notes 
 
