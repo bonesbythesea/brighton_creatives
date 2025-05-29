@@ -39,7 +39,7 @@ Prompted by this article from the Brighton Chamber
         - e.g., has AI impacted photographers and visual designers? 
 
 - **Q2: What are the greatest barriers for creative people living in Brighton?**
-    - Cost of living versus average income (could find something out about this from the Arts Council website I reckon - the median income will likely be fairly low).
+    - Cost of living versus average income.
         - Related to this, I am interested in finding out if there is a general trend of people leaving Brighton, beyond the usual changes to the student population.
     - Relative costs of rents in Brighton as compared to income
     - Issues with housing stock in more affordable areas. Related to this - just some ideas...
