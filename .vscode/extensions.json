@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "timonwong.shellcheck",
+        "ms-python.python",
+        "ms-python.debugpy",
+        "ms-python.mypy-type-checker",
+        "charliermarsh.ruff",
+        "streetsidesoftware.code-spell-checker",
+        "tomoki1207.pdf"
+    ]
+}
