@@ -14,7 +14,7 @@ here we are focusing on the impact on the creative industries in brighton. our p
 │   │   └── time_series   --> raw csv time series from the ons 
 │   ├── excel             --> raw excel formatted data reports from official sources
 │   └── source_urls       --> lists of urls from where data is sourced
-├── img                   --> graphical resources, including plots generated or downloaded from sources
+├── img                   --> graphical resources, including plots genrated or downloaded from sources
 ├── notebooks             --> processing, exploratory, and modelling code notebooks
 ├── notes                 --> various text or pdf documents containing relevant information 
 ├── readme.md             --> this file
@@ -22,8 +22,34 @@ here we are focusing on the impact on the creative industries in brighton. our p
 └── src                   --> (mostly python) source code for scraping/ingestion/processing/modelling
 ```
 
+# Research questions 
 
-# specific notes
+## Are creative people leaving Brighton? 
+
+Prompted by this article from the Brighton Chamber 
+- [discussion at brighton chamber](https://www.brightonchamber.co.uk/blog/the-big-debate-is-brightons-creative-sector-an-undervalued-powerhouse)
+
+- **Q1: What are the greatest barriers for creative people working in Brighton?**
+    - Affordable spaces to make/do (e.g., the closure of New England House).
+    - Spaces to show/sell
+    - Supportive infrastructure (e.g., arts organisations, local funding)
+    - Routes to audiences (e.g., tourism board, what's on guides, social media, ticketing sites)
+    - Supplementary job opportunities, e.g., both universities have been hit with redundancies, how have creative subjects been impacted? Is there even information available?
+    - Are there any factors which may have impacted creative incomes in Brighton?
+        - e.g., has AI impacted photographers and visual designers? 
+
+- **Q2: What are the greatest barriers for creative people living in Brighton?**
+    - Cost of living versus average income.
+        - Related to this, I am interested in finding out if there is a general trend of people leaving Brighton, beyond the usual changes to the student population.
+    - Relative costs of rents in Brighton as compared to income
+    - Issues with housing stock in more affordable areas. Related to this - just some ideas...
+        - Crime in these areas
+        - Quality of schools in these areas
+        - Quality of doctors surgeries
+        - Access to an NHS dentist
+
+
+# specific notes 
 
 ## department for culture, media, and sport
 [2016 report](https://assets.publishing.service.gov.uk/media/5a802de7e5274a2e87db850b/DCMS_Statistical_Handbook_-_28_September_2016.pdf)
@@ -56,7 +82,7 @@ here we are focusing on the impact on the creative industries in brighton. our p
 
 # links for safe keeping 
 **From Adam** 
-- [mapping from uprn to geocoordinates](https://www.ordnancesurvey.co.uk/products/os-open-)
+- [mapping from UPRN  (Unique Property Reference Numbers) to geocoordinates](https://www.ordnancesurvey.co.uk/products/os-open-uprn)
 - [Planning in Brighton and Hove](https://oflog.data.gov.uk/planning?area=BN1+1ND)
 - [Total expenditure on arts, tourism and historic environment](https://lginform.local.gov.uk/dataAndReports/explorer/6605?text=arts&metricType=6605&area=E10000008%2CAllLaInUK&period=latest)
 - [LG Inform](https://lginform.local.gov.uk/dataAndReports/explorer) - data here about number of art gallery visits.
@@ -70,7 +96,15 @@ here we are focusing on the impact on the creative industries in brighton. our p
 - [Report: Space to Grow - Brighton & Hove: Space for Culture](https://cultureinourcity.com/resources/space-to-grow-brighton-hove-space-for-culture/)
 - [*Meanwhile* space this seemed like a good project](https://www.meanwhilespace.com/about) - still active on companies house, but the website is a bit out of date.
 - Some useful links from the 'Creative Lives' website:
-    - [Barriers to Banking](https://www.creative-lives.org/barriers-to-banking) - alas no data yet
-    - [Report: Spaces for Creative 2024](https://www.creative-lives.org/spaces-for-creativity-2024) - limited data but backs up some of the themes. [Direct link to the PDF](https://www.creative-lives.org/Handlers/Download.ashx?IDMF=0b2f24b3-f2b2-4a5e-b9b6-92c6b4fccdab).
-    - [Report: Everyday Creativity 2016](https://www.creative-lives.org/everyday-creativity) - a report from 2016 which includes direct feedback from artists.
-    - [Arts Council response to the report 2020](https://www.artscouncil.org.uk/blog/value-everyday-creativity)
+- [Barriers to Banking](https://www.creative-lives.org/barriers-to-banking) - alas no data yet
+- [Report: Spaces for Creative 2024](https://www.creative-lives.org/spaces-for-creativity-2024) - limited data but backs up some of the themes. [Direct link to the PDF](https://www.creative-lives.org/Handlers/Download.ashx?IDMF=0b2f24b3-f2b2-4a5e-b9b6-92c6b4fccdab).
+- [Report: Everyday Creativity 2016](https://www.creative-lives.org/everyday-creativity) - a report from 2016 which includes direct feedback from artists.
+- [Arts Council response to the report 2020](https://www.artscouncil.org.uk/blog/value-everyday-creativity) 
+- [List of Brighton art galleries](https://www.brighton-hove.gov.uk/libraries-leisure-and-arts/arts-and-culture/art-galleries) - however, a few of these are closed. This page hasn't changed much since 2020.
+- [Creative Industries Council](https://www.thecreativeindustries.co.uk/)
+- [Unleashing Creativity: Fixing the finance gap in the creative industres, Hasan Bakhshi, Josh Siepel, Lara Carmona, Amy Tarr](https://unleash.wearecreative.uk/)
+- [Creative industries add almost £25bn to UK trade balance](https://www.thecreativeindustries.co.uk/facts-figures/creative-industries-add-almost-ps25bn-to-uk-trade-balance) - [data source from gov.uk](https://www.gov.uk/government/statistics/dcms-and-digital-sector-economic-estimates-trade-2021/dcms-sectors-economic-estimates-trade-2021-main-report#trade-in-services-1)
+- [Don't let complacency jeopardise the creative industries](https://committees.parliament.uk/committee/170/communications-and-digital-committee/news/175423/dont-let-complacency-jeopardise-the-creative-industries/)
+- [CITIB International Strategy (2022-2025)](https://www.thecreativeindustries.co.uk/download-hub/citib-international-strategy-2022-2025) 
+
+- [Culture and Place Data Explorer](https://www.artscouncil.org.uk/your-area/culture-and-place-data-explorer) - a brilliant interactive map for exploring multiple factors related to culture and creativity
