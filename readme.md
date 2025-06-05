@@ -14,7 +14,7 @@ here we are focusing on the impact on the creative industries in brighton. our p
 │   │   └── time_series   --> raw csv time series from the ons 
 │   ├── excel             --> raw excel formatted data reports from official sources
 │   └── source_urls       --> lists of urls from where data is sourced
-├── img                   --> graphical resources, including plots genrated or downloaded from sources
+├── img                   --> graphical resources, including plots generated or downloaded from sources
 ├── notebooks             --> processing, exploratory, and modelling code notebooks
 ├── notes                 --> various text or pdf documents containing relevant information 
 ├── readme.md             --> this file
@@ -23,7 +23,7 @@ here we are focusing on the impact on the creative industries in brighton. our p
 ```
 
 
-# specific notes 
+# specific notes
 
 ## department for culture, media, and sport
 [2016 report](https://assets.publishing.service.gov.uk/media/5a802de7e5274a2e87db850b/DCMS_Statistical_Handbook_-_28_September_2016.pdf)
@@ -70,7 +70,7 @@ here we are focusing on the impact on the creative industries in brighton. our p
 - [Report: Space to Grow - Brighton & Hove: Space for Culture](https://cultureinourcity.com/resources/space-to-grow-brighton-hove-space-for-culture/)
 - [*Meanwhile* space this seemed like a good project](https://www.meanwhilespace.com/about) - still active on companies house, but the website is a bit out of date.
 - Some useful links from the 'Creative Lives' website:
--- [Barriers to Banking](https://www.creative-lives.org/barriers-to-banking) - alas no data yet
--- [Report: Spaces for Creative 2024](https://www.creative-lives.org/spaces-for-creativity-2024) - limited data but backs up some of the themes. [Direct link to the PDF](https://www.creative-lives.org/Handlers/Download.ashx?IDMF=0b2f24b3-f2b2-4a5e-b9b6-92c6b4fccdab).
--- [Report: Everyday Creativity 2016](https://www.creative-lives.org/everyday-creativity) - a report from 2016 which includes direct feedback from artists.
--- [Arts Council response to the report 2020](https://www.artscouncil.org.uk/blog/value-everyday-creativity)
+    - [Barriers to Banking](https://www.creative-lives.org/barriers-to-banking) - alas no data yet
+    - [Report: Spaces for Creative 2024](https://www.creative-lives.org/spaces-for-creativity-2024) - limited data but backs up some of the themes. [Direct link to the PDF](https://www.creative-lives.org/Handlers/Download.ashx?IDMF=0b2f24b3-f2b2-4a5e-b9b6-92c6b4fccdab).
+    - [Report: Everyday Creativity 2016](https://www.creative-lives.org/everyday-creativity) - a report from 2016 which includes direct feedback from artists.
+    - [Arts Council response to the report 2020](https://www.artscouncil.org.uk/blog/value-everyday-creativity)

@@ -39,4 +39,3 @@ FROM
     LEFT JOIN uprn_map_limited                      m ON bi.uprn=m.UPRN
 WHERE m.UPRN IS NULL 
 ; -- 413 properties with '0' as their uprn. 
-
