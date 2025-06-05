@@ -3,3 +3,4 @@
 .jupyter
 data/csv/osopenuprn_202505.csv
 *.wal
+venv/
