@@ -96,13 +96,13 @@ Prompted by this article from the Brighton Chamber
 - [Report: Space to Grow - Brighton & Hove: Space for Culture](https://cultureinourcity.com/resources/space-to-grow-brighton-hove-space-for-culture/)
 - [*Meanwhile* space this seemed like a good project](https://www.meanwhilespace.com/about) - still active on companies house, but the website is a bit out of date.
 - Some useful links from the 'Creative Lives' website:
--- [Barriers to Banking](https://www.creative-lives.org/barriers-to-banking) - alas no data yet
--- [Report: Spaces for Creative 2024](https://www.creative-lives.org/spaces-for-creativity-2024) - limited data but backs up some of the themes. [Direct link to the PDF](https://www.creative-lives.org/Handlers/Download.ashx?IDMF=0b2f24b3-f2b2-4a5e-b9b6-92c6b4fccdab).
--- [Report: Everyday Creativity 2016](https://www.creative-lives.org/everyday-creativity) - a report from 2016 which includes direct feedback from artists.
--- [Arts Council response to the report 2020](https://www.artscouncil.org.uk/blog/value-everyday-creativity) 
+- [Barriers to Banking](https://www.creative-lives.org/barriers-to-banking) - alas no data yet
+- [Report: Spaces for Creative 2024](https://www.creative-lives.org/spaces-for-creativity-2024) - limited data but backs up some of the themes. [Direct link to the PDF](https://www.creative-lives.org/Handlers/Download.ashx?IDMF=0b2f24b3-f2b2-4a5e-b9b6-92c6b4fccdab).
+- [Report: Everyday Creativity 2016](https://www.creative-lives.org/everyday-creativity) - a report from 2016 which includes direct feedback from artists.
+- [Arts Council response to the report 2020](https://www.artscouncil.org.uk/blog/value-everyday-creativity) 
 - [List of Brighton art galleries](https://www.brighton-hove.gov.uk/libraries-leisure-and-arts/arts-and-culture/art-galleries) - however, a few of these are closed. This page hasn't changed much since 2020.
 - [Creative Industries Council](https://www.thecreativeindustries.co.uk/)
--- [Unleashing Creativity: Fixing the finance gap in the creative industres, Hasan Bakhshi, Josh Siepel, Lara Carmona, Amy Tarr](https://unleash.wearecreative.uk/)
+- [Unleashing Creativity: Fixing the finance gap in the creative industres, Hasan Bakhshi, Josh Siepel, Lara Carmona, Amy Tarr](https://unleash.wearecreative.uk/)
 - [Creative industries add almost £25bn to UK trade balance](https://www.thecreativeindustries.co.uk/facts-figures/creative-industries-add-almost-ps25bn-to-uk-trade-balance) - [data source from gov.uk](https://www.gov.uk/government/statistics/dcms-and-digital-sector-economic-estimates-trade-2021/dcms-sectors-economic-estimates-trade-2021-main-report#trade-in-services-1)
 - [Don't let complacency jeopardise the creative industries](https://committees.parliament.uk/committee/170/communications-and-digital-committee/news/175423/dont-let-complacency-jeopardise-the-creative-industries/)
 - [CITIB International Strategy (2022-2025)](https://www.thecreativeindustries.co.uk/download-hub/citib-international-strategy-2022-2025) 
